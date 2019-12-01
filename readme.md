@@ -13,5 +13,11 @@
 
 @estatandodevs
 
- - Frederico Bezerra (Fredd)
+install packages : 
+`yarn`
+run app in development mode : 
+`yarn dev`
+
+
+Frederico Bezerra (Fredd)
 
